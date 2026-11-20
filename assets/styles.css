@@ -10,6 +10,8 @@
      font-style: normal; */
 }
 
+
+
 h1 {
     font-family: "BBH Bogle", sans-serif;
     font-weight: 400;
@@ -21,4 +23,10 @@ h1 {
     flex-wrap: inherit;
     align-items: center;
     justify-content: space-between;
+}
+
+.navbar-collapse {
+    flex-grow: 0;
+    flex-basis: 100%;
+    align-items: center;
 }
