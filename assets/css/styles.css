@@ -30,3 +30,10 @@ h1 {
     flex-basis: 100%;
     align-items: center;
 }
+
+.hero-img {
+  display: block;
+  width: 100%;
+  max-width: none;
+  object-fit: cover;
+}
