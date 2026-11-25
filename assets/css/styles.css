@@ -37,7 +37,9 @@
     
 }
 
-
+.img-fluid {
+    padding-top: 60px;
+}
 
 #signup {
     justify-items: center;
