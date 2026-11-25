@@ -2,8 +2,11 @@
 
 @import url('https://fonts.googleapis.com/css2?family=BBH+Bogle&display=swap');
 
+/* * {
+    font-family: a;
+} */
 
-h1 {
+.navbar-brand > h1 {
     font-family: "BBH Bogle", sans-serif;
     font-weight: 400;
     font-style: normal;
@@ -34,4 +37,9 @@ h1 {
     height: 600px;
     object-fit: cover;
     object-position: center 10%;
+}
+
+#signup {
+    justify-items: center;
+    background-image: url("assets/images/notpink_album_cover.jpeg");
 }
