@@ -34,19 +34,22 @@
 }
 
 /* Hero image padding top for homepage */
-.img-fluid {
+.hero-img {
     padding-top: 60px;
+}
+
+/* Album cover spacing */
+.album-img {
+    padding-top: 20px;
 }
 
 .card-text {
     text-align: center;
-
 }
 
 #music {
     scroll-margin-top: 80px;
 }
-
 
 #signup {
     justify-items: center;
