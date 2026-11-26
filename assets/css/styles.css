@@ -47,7 +47,7 @@
     text-align: center;
 }
 
-#music {
+#music, #about {
     scroll-margin-top: 80px;
 }
 
