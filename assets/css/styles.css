@@ -2,10 +2,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=BBH+Bogle&display=swap');
 
-/* * {
-    font-family: a;
-} */
-
 /* Navbar brand */
 .navbar-brand>h1 {
     font-family: "BBH Bogle", sans-serif;
@@ -24,8 +20,11 @@
     display: flex;
     flex-wrap: inherit;
     align-items: center;
-    justify-content: space-between;
-    
+    justify-content: space-between; 
+}
+
+#navbarNav {
+    justify-content: flex-end;
 }
 
 /* Hero image padding top for homepage */
