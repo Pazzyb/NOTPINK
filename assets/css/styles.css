@@ -47,11 +47,16 @@
     text-align: center;
 }
 
-#music, #about {
-    scroll-margin-top: 80px;
+#about, #music  {
+    scroll-margin-top: 85px;
 }
 
 #signup {
-    justify-items: center;
-    background-image: url("assets/images/notpink_album_cover.jpeg");
+    /* justify-items: center; */
+    background-size: auto;
+    background-image: url("../images/notpink_album_cover.jpeg");
+    padding-top: 90px;
+    /* color: white */
+    background-color: rgba(60, 60, 60, 0.6);
+    
 }
