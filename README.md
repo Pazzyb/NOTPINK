@@ -4,7 +4,7 @@
 
 Live site: [https://pazzyb.github.io/NOTPINK/index.html](https://pazzyb.github.io/NOTPINK/index.html)
 
-## Table of Contents
+## 📚 Table of Contents
 
 1. [Project Overview](#project-overview)
 2. [UX](#1-ux)

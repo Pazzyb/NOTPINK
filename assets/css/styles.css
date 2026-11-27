@@ -25,12 +25,7 @@
     flex-wrap: inherit;
     align-items: center;
     justify-content: space-between;
-}
-
-.navbar-collapse {
-    flex-grow: 0;
-    flex-basis: 100%;
-    align-items: center;
+    
 }
 
 /* Hero image padding top for homepage */
