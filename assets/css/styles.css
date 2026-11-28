@@ -2,6 +2,10 @@
 
 @import url('https://fonts.googleapis.com/css2?family=BBH+Bogle&display=swap');
 
+* {
+    justify-content: center;
+}
+
 /* --------------------------------------- NAVBAR LAYOUT ------------------------------------------------*/
 
 /* Navbar brand */
@@ -51,10 +55,13 @@
     text-align: center;
 }
 
-#about, #music {
+#about {
     scroll-margin-top: 70px;
 }
 
+#music {
+    scroll-margin-top: 110px;
+}
 /* --------------------------------------- MERCH STORE ------------------------------------------------*/
 /* Merch store item cards */
 .card-text {
@@ -64,6 +71,13 @@
 .merch {
     background-image: url("../images/notpink_photo.jpeg");
 
+}
+
+/* --------------------------------------- MERCH STORE ------------------------------------------------*/
+
+label {
+    color: #fff;
+    
 }
 
 #contact {

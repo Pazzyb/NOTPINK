@@ -239,10 +239,10 @@ Potential improvements include:
 
 ## Credits
 
-- Website design and development: Paz Ai
+- Website design and development: M
 - Framework: [Bootstrap](https://getbootstrap.com/)
 - Icons: [Bootstrap Icons](https://icons.getbootstrap.com/)
-- Resources: 
+- References: [W3Schools](https://www.w3schools.com/)
 - Deployment: [GitHub Pages](https://pages.github.com/)
 
 ### Code
