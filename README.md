@@ -242,7 +242,7 @@ Potential improvements include:
 - Website design and development: Paz Ai
 - Framework: [Bootstrap](https://getbootstrap.com/)
 - Icons: [Bootstrap Icons](https://icons.getbootstrap.com/)
-- Resource
+- Resources: 
 - Deployment: [GitHub Pages](https://pages.github.com/)
 
 ### Code
