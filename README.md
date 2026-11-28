@@ -242,6 +242,7 @@ Potential improvements include:
 - Website design and development: Paz Ai
 - Framework: [Bootstrap](https://getbootstrap.com/)
 - Icons: [Bootstrap Icons](https://icons.getbootstrap.com/)
+- Resource
 - Deployment: [GitHub Pages](https://pages.github.com/)
 
 ### Code
@@ -264,17 +265,17 @@ Potential improvements include:
 ---
 
 **Carousel**
--Source: [Bootstrap - carousel](https://getbootstrap.com/docs/5.3/components/carousel/).
+- Source: [Bootstrap - carousel](https://getbootstrap.com/docs/5.3/components/carousel/).
 
 ---
 
 **Container**
--Source: [Bootstrap - container](https://getbootstrap.com/docs/5.3/layout/containers/).
+- Source: [Bootstrap - container](https://getbootstrap.com/docs/5.3/layout/containers/).
 
 ---
 
 **Footer**
-- Source: [Bootstrap - nav-tabs](https://get
+- Source: [Bootstrap - nav-tabs](https://getbootstrap.com/docs/5.3/components/navs-tabs/).
 
 ## Copyright
 
