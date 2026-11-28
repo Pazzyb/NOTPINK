@@ -4,7 +4,9 @@
 
 Live site: [https://pazzyb.github.io/NOTPINK/index.html](https://pazzyb.github.io/NOTPINK/index.html)
 
+---
 ## 📚 Table of Contents
+
 
 1. [Project Overview](#project-overview)
 2. [UX](#1-ux)
@@ -241,6 +243,38 @@ Potential improvements include:
 - Framework: [Bootstrap](https://getbootstrap.com/)
 - Icons: [Bootstrap Icons](https://icons.getbootstrap.com/)
 - Deployment: [GitHub Pages](https://pages.github.com/)
+
+### Code
+
+
+**Nav bar**
+
+-Source: [Bootstrap - nav-tabs](https://getbootstrap.com/docs/5.3/components/navs-tabs/).
+
+---
+
+**Open Graph Meta Tags** 
+
+- added to `index.html` to improve social media link previews and SEO.
+
+- Source: [The Open Graph Protocol](https://ogp.me/).
+
+- Explanation: These tags define how the website appears when shared on social media platforms (e.g., Facebook, LinkedIn, Discord). They include properties such as `og:title`, `og:description`, `og:image`, and `og:url`.
+
+---
+
+**Carousel**
+-Source: [Bootstrap - carousel](https://getbootstrap.com/docs/5.3/components/carousel/).
+
+---
+
+**Container**
+-Source: [Bootstrap - container](https://getbootstrap.com/docs/5.3/layout/containers/).
+
+---
+
+**Footer**
+- Source: [Bootstrap - nav-tabs](https://get
 
 ## Copyright
 
