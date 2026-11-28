@@ -45,12 +45,20 @@
     padding-top: 20px;
 }
 
-.card-text {
+#merch {
+    padding-top: 140px;
+    margin-bottom: 60px;
     text-align: center;
 }
 
-#about, #music  {
+#about, #music {
     scroll-margin-top: 85px;
+}
+
+/* --------------------------------------- MERCH STORE ------------------------------------------------*/
+/* Merch store item cards */
+.card-text {
+    text-align: center;
 }
 
 #signup {
